@@ -1,0 +1,5 @@
+url: "" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+
+title: Bridgetown Example
+description: A minimal Bridgetown site example
