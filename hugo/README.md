@@ -1,6 +1,6 @@
 # Hugo Example Site
 
-A minimal Hugo site for testing Blossom's SSG detection and build process.
+A minimal Hugo static site example.
 
 ## Prerequisites
 

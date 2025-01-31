@@ -1,6 +1,6 @@
 # 11ty (Eleventy) Example Site
 
-A minimal 11ty site for testing Blossom's SSG detection and build process.
+A minimal 11ty static site example.
 
 ## Prerequisites
 

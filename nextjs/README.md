@@ -1,6 +1,6 @@
 # Next.js Example Site
 
-A minimal Next.js site for testing Blossom's SSG detection and build process.
+A minimal Next.js static site example.
 
 ## Prerequisites
 

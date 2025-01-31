@@ -1,6 +1,6 @@
 # Astro Example Site
 
-A minimal Astro site for testing Blossom's SSG detection and build process.
+A minimal Astro static site example.
 
 ## Prerequisites
 

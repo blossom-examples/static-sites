@@ -1,6 +1,6 @@
 # Jekyll Example Site
 
-A minimal Jekyll site for testing Blossom's SSG detection and build process.
+A minimal Jekyll static site example.
 
 ## Prerequisites
 

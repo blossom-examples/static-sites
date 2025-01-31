@@ -1,6 +1,6 @@
 # Gatsby Example Site
 
-A minimal Gatsby site for testing Blossom's SSG detection and build process.
+A minimal Gatsby static site example.
 
 ## Prerequisites
 
