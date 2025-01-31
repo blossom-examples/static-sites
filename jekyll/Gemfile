@@ -1,3 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.0"
+gem "csv" # required, since ruby 3.5+ moved out of default gems
+
+gem "jekyll", ">= 4.3.0"
