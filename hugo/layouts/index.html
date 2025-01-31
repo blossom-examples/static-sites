@@ -1,0 +1,14 @@
+{{ define "main" }}
+<main>
+  <h1>Welcome to {{ .Site.Title }}</h1>
+  <p>This is a minimal Hugo site example.</p>
+
+  <h2>Recent Posts</h2>
+  {{ range first 5 .Site.RegularPages }}
+  <article>
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <div>{{ .Summary }}</div>
+  </article>
+  {{ end }}
+</main>
+{{ end }}
