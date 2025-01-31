@@ -1,0 +1,11 @@
+{
+  "name": "gridsome-example",
+  "version": "1.0.0",
+  "scripts": {
+    "develop": "gridsome develop",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  }
+}
