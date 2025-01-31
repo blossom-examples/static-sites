@@ -4,16 +4,15 @@ This directory contains example projects for various static site generators.
 
 ## Available Examples
 
-- `jekyll/` - A basic Jekyll blog
-- `hugo/` - A simple Hugo website
-- `nextjs/` - A Next.js static site
-- `gatsby/` - A Gatsby blog
-- `eleventy/` - An 11ty documentation site
-- `astro/` - An Astro landing page
-- `vuepress/` - A VuePress documentation site
-- `hexo/` - A Hexo blog
-- `gridsome/` - A Gridsome site
-- `mkdocs/` - A MkDocs documentation site
+- [astro/](/astro/) - An Astro landing page
+- [eleventy/](/astro/) - An 11ty documentation site
+- [gatsby/](/astro/) - A Gatsby blog
+- [gridsome/](/astro/) - A Gridsome site
+- [hexo/](/astro/) - A Hexo blog
+- [hugo/](/astro/) - A simple Hugo website
+- [jekyll/](/astro/) - A basic Jekyll blog
+- [mkdocs/](/astro/) - A MkDocs documentation site
+- [nextjs/](/astro/) - A Next.js static site
 
 Each example is a minimal implementation that demonstrates the basic configuration and build process for that particular SSG.
 
