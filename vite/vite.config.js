@@ -1,3 +1,7 @@
 export default {
-  // Config options
+  root: '.',
+  build: {
+    outDir: 'dist',
+    emptyOutDir: true
+  }
 }
