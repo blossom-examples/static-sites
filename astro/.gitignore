@@ -1,0 +1,23 @@
+# Astro build output
+dist/
+.output/
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment
+.env
+.env.*
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Generated types
+.astro/
+
+# OS files
+.DS_Store

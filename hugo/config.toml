@@ -1,0 +1,6 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Hugo Example Site"
+
+[params]
+description = "A minimal Hugo site for testing Blossom"

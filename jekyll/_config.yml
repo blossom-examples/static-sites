@@ -1,0 +1,7 @@
+title: Jekyll Example Site
+description: A minimal Jekyll site for testing Blossom
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
