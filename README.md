@@ -13,7 +13,6 @@ This directory contains example projects for various static site generators.
 - `vuepress/` - A VuePress documentation site
 - `hexo/` - A Hexo blog
 - `gridsome/` - A Gridsome site
-- `middleman/` - A Middleman static site
 - `mkdocs/` - A MkDocs documentation site
 
 Each example is a minimal implementation that demonstrates the basic configuration and build process for that particular SSG.
