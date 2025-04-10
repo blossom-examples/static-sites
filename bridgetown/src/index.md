@@ -7,7 +7,7 @@ title: Blossom - Modern App Deploy Platform
 
 <div class="intro-section">
   <h2>Welcome to Your Bridgetown-Powered Site</h2>
-  <p>This site is built using <a href="https://www.bridgetownrb.com" target="_blank">Bridgetown</a>, a modern static site generator. Explore the features and see how easily you can deploy your own site.</p>
+  <p>This site is built using <a href="https://www.bridgetownrb.com" target="_blank">Bridgetown</a> and deployed with <a href="https://blossom-cloud.com" target="_blank">Blossom</a>. Explore the features and see how easily you can deploy your own site.</p>
 </div>
 
 <div class="hero">
@@ -24,13 +24,8 @@ title: Blossom - Modern App Deploy Platform
 <div class="features-grid">
   <div class="feature-card">
     <div class="feature-icon">🌍</div>
-    <h3>Any Language</h3>
-    <p>Deploy applications in any programming language. Beautiful hosting for static sites & dynamic web apps.</p>
-  </div>
-  <div class="feature-card">
-    <div class="feature-icon">☁️</div>
-    <h3>Any Server</h3>
-    <p>Connect to AWS, DigitalOcean, Hetzner, or any SSH-enabled server. No vendor lock-in.</p>
+    <h3>Any Language, Any Server</h3>
+    <p>Deploy applications in any programming language to any server. No vendor lock-in.</p>
   </div>
   <div class="feature-card">
     <div class="feature-icon">💰</div>
