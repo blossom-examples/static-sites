@@ -5,6 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: 'Blossom - Gridsome Example',
+  siteDescription: 'A modern app deployment platform example built with Gridsome',
   plugins: []
 }
