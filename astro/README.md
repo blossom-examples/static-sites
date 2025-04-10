@@ -16,7 +16,7 @@ A ready-to-deploy Astro static site example to get you started on [Blossom](http
     # or
     yarn dev
 
-The site will be available at http://localhost:3000
+The site will be available at http://localhost:4321
 
 ## Building
 

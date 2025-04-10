@@ -1,12 +1,16 @@
 {
   "name": "astro-example",
-  "version": "1.0.0",
+  "type": "module",
+  "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
+    "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.0.0"
+    "@fontsource/inter": "^5.0.16",
+    "astro": "^4.4.0"
   }
 }
