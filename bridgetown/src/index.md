@@ -5,6 +5,11 @@ layout: hero
 title: Blossom - Modern App Deploy Platform
 ---
 
+<div class="intro-section">
+  <h2>Welcome to Your Bridgetown-Powered Site</h2>
+  <p>This site is built using <a href="https://www.bridgetownrb.com" target="_blank">Bridgetown</a>, a modern static site generator. Explore the features and see how easily you can deploy your own site.</p>
+</div>
+
 <div class="hero">
   <h1>Let Your Apps Blossom</h1>
   <p>Deploy any application to your own servers. Save time and money.</p>
