@@ -1,4 +1,4 @@
-# Astro Example on Blossom
+# Astro Example
 
 A ready-to-deploy Astro static site example to get you started on [Blossom](https://blossom-cloud.com).
 

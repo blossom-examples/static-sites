@@ -1,4 +1,4 @@
-# Bridgetown Example on Blossom
+# Bridgetown Example
 
 A ready-to-deploy Bridgetown static site example to get you started on [Blossom](https://blossom-cloud.com).
 

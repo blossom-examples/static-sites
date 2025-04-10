@@ -1,9 +1,10 @@
 {
-  "name": "gridsome-example",
-  "version": "1.0.0",
+  "name": "my-gridsome-site",
+  "private": true,
   "scripts": {
+    "build": "gridsome build",
     "develop": "gridsome develop",
-    "build": "gridsome build"
+    "explore": "gridsome explore"
   },
   "dependencies": {
     "gridsome": "^0.7.0"

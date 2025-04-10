@@ -1,4 +1,4 @@
-# 11ty (Eleventy) Example Site
+# 11ty (Eleventy) Example
 
 A ready-to-deploy Eleventy static site example to get you started on [Blossom](https://blossom-cloud.com).
 

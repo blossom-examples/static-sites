@@ -1,32 +1,19 @@
-# Gridsome Example Site
+# Gridsome Example
 
-A minimal Gridsome static site example.
+A ready-to-deploy Gridsome static site example to get you started on [Blossom](https://blossom-cloud.com).
 
-## Prerequisites
+## 🚀 Quick start
 
-- Node.js 16.x or higher
-- npm or yarn
+Install Gridsome CLI tool if you don't have
 
-## Setup
+    npm install --global @gridsome/cli
 
-1. Install dependencies:
+Install dependencies
 
     npm install
-    # or
-    yarn install
 
-2. Run development server:
+Run development server
 
-    npm run develop
-    # or
-    yarn develop
+    gridsome develop
 
-## Building
-
-To build the static site:
-
-    npm run build
-    # or
-    yarn build
-
-The site will be generated in the `dist` directory.
+Your site is now running at http://localhost:8081
