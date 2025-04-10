@@ -1,13 +1,8 @@
-# Astro Example Site
+# Astro Example on Blossom
 
-A minimal Astro static site example.
+A ready-to-deploy Astro static site example to get you started on [Blossom](https://blossom-cloud.com).
 
-## Prerequisites
-
-- Node.js 16.x or higher
-- npm or yarn
-
-## Setup
+## Quickstart
 
 1. Install dependencies:
 
@@ -20,6 +15,8 @@ A minimal Astro static site example.
     npm run dev
     # or
     yarn dev
+
+The site will be available at http://localhost:3000
 
 ## Building
 
