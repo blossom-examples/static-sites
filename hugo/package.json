@@ -1,0 +1,12 @@
+{
+  "name": "hugo",
+  "version": "1.0.0",
+  "description": "A minimal Hugo static site example.",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Nothing to build yet'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
