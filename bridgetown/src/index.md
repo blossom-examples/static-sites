@@ -86,3 +86,7 @@ title: Blossom - Modern App Deploy Platform
   <a href="https://blossom-cloud.com" class="cta-button">Get Started Today</a>
 </div>
 
+<div class="bridgetown-note">
+  <p>This site is powered by <a href="https://www.bridgetownrb.com" target="_blank">Bridgetown</a>. Learn more about how to build and deploy your own Bridgetown site.</p>
+</div>
+
