@@ -1,6 +1,6 @@
 # Jekyll Example Site
 
-A minimal Jekyll static site example.
+A minimal Jekyll static site example for [Blossom](https://www.blossom-cloud.com).
 
 ## Prerequisites
 
