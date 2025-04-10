@@ -10,7 +10,7 @@ A minimal 11ty static site example.
 
 2. Run development server:
 
-    npm run dev
+    npm run serve
 
 The site will be available at http://localhost:8081
 
