@@ -1,0 +1,8 @@
+# .cursor
+
+rules
+
+# General rules
+
+- Please do not prompt with commands to run in the chat. I've find it does not work well. Instead, you can just provide me the commands and I'll run them myself in a terminal.
+- Don't add title again in the pages, since the title is already added in the page.html layout
