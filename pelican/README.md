@@ -1,21 +1,18 @@
 # Pelican Example Site
 
-A minimal Pelican static site example.
-
-## Prerequisites
-
-- Python 3.x
-- pip
+A ready-to-deploy Pelican static site example for [Blossom](https://www.blossom-cloud.com).
 
 ## Setup
 
 1. Install dependencies:
 
-    pip install -r requirements.txt
+    python -m pip install "pelican[markdown]"
 
 2. Run development server:
 
     pelican --listen
+
+Your site is available at http://localhost:8000
 
 ## Building
 
