@@ -1,25 +1,18 @@
 # Next.js Example Site
 
-A minimal Next.js static site example.
-
-## Prerequisites
-
-- Node.js 16.x or higher
-- npm or yarn
+A ready-to-deploy Next.js static site example for [Blossom](https://www.blossom-cloud.com).
 
 ## Setup
 
 1. Install dependencies:
 
     npm install
-    # or
-    yarn install
 
 2. Run development server:
 
     npm run dev
-    # or
-    yarn dev
+
+Your site is available at http://localhost:3000
 
 ## Building
 
@@ -27,8 +20,5 @@ To build the static site:
 
     npm run build
     npm run export
-    # or
-    yarn build
-    yarn export
 
 The static site will be generated in the `out` directory.
