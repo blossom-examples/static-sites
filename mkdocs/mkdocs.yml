@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: MkDocs Example Site
+theme:
+  name: 'mkdocs'
+  custom_dir: 'docs/overrides'
+extra_css:
+  - 'stylesheets/custom.css'
