@@ -1,0 +1,30 @@
+# Hugo output directory
+/public/
+/resources/
+
+# Hugo cache
+/.hugo_build.lock
+
+# Node.js dependencies (if using npm for Tailwind, etc.)
+/node_modules/
+
+# Build output (if using other tools)
+/dist/
+/.build/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: environment/local config
+.env
+*.local.*
