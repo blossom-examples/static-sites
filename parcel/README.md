@@ -21,3 +21,12 @@ To build the static site:
     npm run build
 
 The site will be generated in the `dist` directory.
+
+## Structure
+
+- `src/` - Source files
+  - `index.html` - Main HTML file
+  - `index.js` - JavaScript entry point
+  - `styles.css` - CSS styles
+- `dist/` - Built files (generated after build)
+- `package.json` - Project configuration and dependencies
