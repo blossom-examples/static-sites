@@ -7,7 +7,7 @@ A ready-to-deploy MkDocs static site example to get you started on [Blossom](htt
 
 1. Install dependencies:
 
-    pip install -r requirements.txt
+    pip install mkdocs
 
 2. Run development server:
 
