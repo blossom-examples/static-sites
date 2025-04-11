@@ -6,3 +6,24 @@ node_modules
 dist
 .env
 .env.*
+
+# Optional: if using yarn
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+yarn.lock
+
+# Optional: if using npm
+package-lock.json
+npm-debug.log
+
+# Env files
+.env
+.env.*.local
+
+# OS-specific
+.DS_Store
+Thumbs.db
