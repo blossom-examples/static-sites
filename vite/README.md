@@ -12,6 +12,8 @@ A ready-to-deploy Vite static site example for [Blossom](https://www.blossom-clo
 
     npm run dev
 
+Your site is available at http://localhost:5173
+
 ## Building
 
 To build the static site:
