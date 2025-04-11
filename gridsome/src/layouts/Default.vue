@@ -14,11 +14,6 @@
     <main>
       <slot/>
     </main>
-    <footer class="footer">
-      <div class="container">
-        <p>&copy; {{ new Date().getFullYear() }} Blossom Cloud. All rights reserved.</p>
-      </div>
-    </footer>
   </div>
 </template>
 
