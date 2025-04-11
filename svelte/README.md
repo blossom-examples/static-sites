@@ -1,32 +1,23 @@
 # SvelteKit Example Site
 
-A minimal SvelteKit static site example.
-
-## Prerequisites
-
-- Node.js 16.x or higher
-- npm or yarn
+A ready-to-deploy SvelteKit static site example for [Blossom](https://www.blossom-cloud.com).
 
 ## Setup
 
 1. Install dependencies:
 
     npm install
-    # or
-    yarn install
 
 2. Run development server:
 
     npm run dev
-    # or
-    yarn dev
+
+Your site is available at http://localhost:5173
 
 ## Building
 
 To build the static site:
 
     npm run build
-    # or
-    yarn build
 
 The site will be generated in the `build` directory.
