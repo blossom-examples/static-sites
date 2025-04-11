@@ -21,3 +21,10 @@ To build the static site:
     npm run generate
 
 The site will be generated in the `dist` directory.
+
+## Structure
+
+- `pages/` - Vue components that are automatically converted to pages
+- `assets/` - Uncompiled assets like SCSS, images, or fonts
+- `static/` - Static files that are served directly
+- `nuxt.config.js` - Nuxt.js configuration file
