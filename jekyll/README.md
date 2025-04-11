@@ -2,12 +2,6 @@
 
 A minimal Jekyll static site example for [Blossom](https://www.blossom-cloud.com).
 
-## Prerequisites
-
-- Ruby 2.7.0 or higher
-- RubyGems
-- GCC and Make (for building native extensions)
-
 ## Setup
 
 1. Install dependencies:
@@ -17,6 +11,8 @@ A minimal Jekyll static site example for [Blossom](https://www.blossom-cloud.com
 2. Run locally:
 
     bundle exec jekyll serve
+
+Your site is available at http://localhost:4000
 
 ## Building
 
