@@ -1,32 +1,23 @@
 # Parcel Example Site
 
-A minimal Parcel static site example.
-
-## Prerequisites
-
-- Node.js 16.x or higher
-- npm or yarn
+A ready-to-deploy Parcel static site example for [Blossom](https://www.blossom-cloud.com).
 
 ## Setup
 
 1. Install dependencies:
 
     npm install
-    # or
-    yarn install
 
 2. Run development server:
 
     npm start
-    # or
-    yarn start
+
+Your site is available at http://localhost:1234
 
 ## Building
 
 To build the static site:
 
     npm run build
-    # or
-    yarn build
 
 The site will be generated in the `dist` directory.
