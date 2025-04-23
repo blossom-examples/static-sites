@@ -1,5 +1,7 @@
 # Static Site Generator Examples
 
+[![Blossom Badge](https://img.boltops.com/images/blossom/logos/blossom-readme.png)](https://blossom-cloud.com)
+
 This directory contains example projects for various static site generators.
 
 ## Available Examples
